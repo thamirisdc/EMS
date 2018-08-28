@@ -1,0 +1,5 @@
+rerun.txt
+reports/
+*.html
+Gemfile.lock
+rerun.txt
